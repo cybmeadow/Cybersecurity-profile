@@ -45,7 +45,7 @@ I am a cybersecurity practitioner with a passion for red team operations and adv
 - Target: Windows 7 SP1 (10.10.11.181)
 - Tools: Nmap, Metasploit
 - Outcome: Gained Meterpreter shell via MS17-010 vulnerability
-- [Read the full report](reports/eternalblue-report.pdf)
+- [Read the full report](https://github.com/cybmeadow/EternalBlue-Exploitation)
 
 ### 🧪 SMB Enumeration Script
 - Language: Python
