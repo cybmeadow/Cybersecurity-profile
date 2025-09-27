@@ -86,6 +86,17 @@ I am a cybersecurity practitioner with a passion for red team operations and adv
 </div>
 
 ---
+
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://tryhackme.com/Cybmeadow" target="_blank">
+    <img 
+      src="https://tryhackme.com/Cybmeadow/badges/metasploitable?utm_source=whatsapp&utm_medium=social&utm_campaign=social_share&utm_content=badge" 
+      alt="TryHackMe Metasploitable Badge" 
+      style="height: 100px;"
+    />
+  </a>
+</div>
+---
 | skill                       | Associated Project        |
 |-----------------------------|---------------------------|
 |metasploit                   |  tryhackme lab            |
