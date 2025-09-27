@@ -55,7 +55,7 @@ I am a cybersecurity practitioner with a passion for red team operations and adv
 ### 🧠 Metasploit: Meterpreter Lab
 - Platform: TryHackMe
 - Focus: In-memory payloads, post-exploitation, persistence
-- [Write-up](metasploit-meterpreter-writeup.md)
+- [Write-up]()
 
 ---
 
@@ -67,7 +67,7 @@ I am a cybersecurity practitioner with a passion for red team operations and adv
 ---
 
 ## 🏅 Badges & Certifications
-![Metasploit Badge](tryhackme-badges/metasploit-badge.png)  
+[Metasploit Badge](tryhackme-badges/metasploit-badge.png)  
 <!-- Add more badges or certification logos here -->
 
 ---
