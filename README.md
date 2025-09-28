@@ -39,6 +39,7 @@ I am a cybersecurity practitioner with a passion for red team operations and adv
 ## 📂 Featured Projects
 
 ### - [🧨EternalBlue Exploitation](https://github.com/cybmeadow/EternalBlue-Exploitation)
+### - [🧨Offensive-security-tooling](https://github.com/cybmeadow/offensive-security-tooling/blob/main/README.md)
 
 ### 🧪 SMB Enumeration Script
 - Language: Python
