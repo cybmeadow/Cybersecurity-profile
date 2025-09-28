@@ -41,6 +41,25 @@ I am a cybersecurity practitioner with a passion for red team operations and adv
 ### - [🧨EternalBlue Exploitation](https://github.com/cybmeadow/EternalBlue-Exploitation)
 ### - [🧨Offensive-security-tooling](https://github.com/cybmeadow/offensive-security-tooling/blob/main/README.md)
 
+---
+
+## 🛡️ My Offensive Security Toolkit
+
+In the course of my study and practice as a **penetration tester**, I’ve had the opportunity to deploy a wide range of offensive security tools across diverse labs, study rooms, and real-world projects. These tools span multiple phases of the penetration testing lifecycle — from reconnaissance and enumeration to exploitation and post-exploitation.
+
+| **Category** | **Tool** |
+|-------------|----------|
+| 🔐 Password Cracking & Authentication Attacks | Hydra, John the Ripper, Hashcat, Medusa|
+| 🌐 Web Application Testing | Burp Suite, OWASP ZAP, Nikto, SQLMap, XSStrike|
+| 📁 Directory & File Enumeration | Gobuster, Dirb,, FFUF,|
+| 🧠 Information Gathering & Reconnaissance | Nmap, Recon-ng, theHarvester, Maltego|
+| 📡 Network & Packet Analysis | Wireshark, Tcpdump, Ettercap|
+| 💣 Exploitation Frameworks | Metasploit Framework, ExploitDB, BeEF|
+| 🧱 Firewall & IDS Evasion | Nmap (evasion flags), Hping3, ProxyChains|
+| 🧪 Post-Exploitation & Privilege Escalation | Empire, LinPEAS / WinPEAS, BloodHound|
+| 🧰 Miscellaneous Utilities | Netcat, Socat, Enum4linux, Enum4venom|
+---
+
 ### 🧪 SMB Enumeration Script
 - Language: Python
 - Function: Automates SMB share discovery and access checks
