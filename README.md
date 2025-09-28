@@ -31,11 +31,8 @@ I am a cybersecurity practitioner with a passion for red team operations and adv
 
 ## 🧠 Learning Platforms
 - ✅ TryHackMe
-  (Badges Earned):
-    - (Red Teaming Milestones - Pentesting Principles, Metasploitable)
-    - (Foundations Milestone - Networking Nerd, cat linux.txt)
-- Hack The Box
-- PortSwigger Web Security Academy
+- ✅ Hack The Box
+- ✅ PortSwigger Web Security Academy
 
 ---
 
@@ -45,7 +42,7 @@ I am a cybersecurity practitioner with a passion for red team operations and adv
 - Target: Windows 7 SP1 (10.10.11.181)
 - Tools: Nmap, Metasploit
 - Outcome: Gained Meterpreter shell via MS17-010 vulnerability
-- [Read the full report](https://github.com/cybmeadow/EternalBlue-Exploitation)
+- [Click for details](https://github.com/cybmeadow/EternalBlue-Exploitation)
 
 ### 🧪 SMB Enumeration Script
 - Language: Python
@@ -66,9 +63,60 @@ I am a cybersecurity practitioner with a passion for red team operations and adv
 
 ---
 
-## 🏅 Badges & Certifications
-[Metasploit Badge](tryhackme-badges/metasploit-badge.png)  
+## 🏅Certifications                                               
+<div style="text-align: center; margin-top: 20px;">
+  <span style="display: inline-block; margin: 0 10px;">
+    <img 
+      src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" 
+      alt="Google Cybersecurity Certificate Badge" 
+    />
+  </span>
+  <span style="display: inline-block; margin: 0 10px;">
+    <a href="https://www.simplilearn.com/" target="_blank">
+      <img 
+        src="https://img.shields.io/badge/-Simplilearn%20Cybersecurity%20Certificate-0076BC?style=for-the-badge&logo=Simplilearn&logoColor=white" 
+        alt="Simplilearn Cybersecurity Certificate Badge" 
+      />
+    </a>
+  </span>
+  <span style="display: inline-block; margin: 0 10px;">
+    <img 
+      src="https://img.shields.io/badge/-HIIT%20Ethical%20Hacking-800080?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" 
+      alt="HIIT Ethical Hacking Certificate Badge" 
+    />
+  </span>
+</div>
 <!-- Add more badges or certification logos here -->
+
+## 🏅 Badges
+<div style="text-align: center; margin-top: 20px;">
+  <span style="display: inline-block; margin: 0 10px;">
+    <img 
+      src="https://img.shields.io/badge/-TryHackMe%20Metasploit-CC0000?style=for-the-badge&logo=TryHackMe&logoColor=white" 
+      alt="TryHackMe Metasploit Badge" 
+    />
+  </span>
+  <span style="display: inline-block; margin: 0 10px;">
+    <img 
+      src="https://img.shields.io/badge/-TryHackMe%20Pentesting%20Principles-CC0000?style=for-the-badge&logo=TryHackMe&logoColor=white" 
+      alt="TryHackMe Pentesting Principles Badge" 
+    />
+  </span>
+  <span style="display: inline-block; margin: 0 10px;">
+    <img 
+      src="https://img.shields.io/badge/-TryHackMe%20Networking%20Nerd-CC0000?style=for-the-badge&logo=TryHackMe&logoColor=white" 
+      alt="TryHackMe Networking Nerd Badge" 
+    />
+  </span>
+  <span style="display: inline-block; margin: 0 10px;">
+    <img 
+      src="https://img.shields.io/badge/-TryHackMe%20Cat%20linux.txt-CC0000?style=for-the-badge&logo=TryHackMe&logoColor=white" 
+      alt="TryHackMe Cat linux.txt Badge" 
+    />
+  </span>
+</div>
+<!-- Add more badges or certification logos here -->                           
+
 
 ---
 
@@ -76,26 +124,10 @@ I am a cybersecurity practitioner with a passion for red team operations and adv
 - [LinkedIn](https://www.linkedin.com/in/kingsleyakpan)
 - [GitHub](https://github.com/cybmeadow)
 
-
----
-<div style="text-align: center; margin-top: 20px;">
-  <img 
-    src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" 
-    alt="Amazon AWS Badge" 
-  />
-</div>
-
 ---
 
-<div style="text-align: center; margin-top: 20px;">
-  <a href="https://tryhackme.com/Cybmeadow" target="_blank">
-    <img 
-      src="https://tryhackme.com/Cybmeadow/badges/metasploitable?utm_source=whatsapp&utm_medium=social&utm_campaign=social_share&utm_content=badge" 
-      alt="TryHackMe Metasploitable Badge" 
-      style="height: 100px;"
-    />
-  </a>
-</div>
+
+---
 ---
 | skill                       | Associated Project        |
 |-----------------------------|---------------------------|
