@@ -85,8 +85,8 @@ I am a cybersecurity practitioner with a passion for red team operations and adv
 <!-- Add more badges or certification logos here -->
 
 ## 🏅 Badges
-[![TryHackMe Metasploit Badge](https://img.shields.io/badge/-TryHackMe%20Metasploit-CC0000?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://github.com/cybmeadow/EternalBlue-Exploitation/blob/main/METASPLOITABLE%20PIX.jpg)
-[![TryHackMe Pentesting Principles Badge](https://img.shields.io/badge/-TryHackMe%20Pentesting%20Principles-CC0000?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://github.com/cybmeadow/EternalBlue-Exploitation/blob/main/PENTESTING%20PRINCIPLES%20PIX.jpg)
+[![TryHackMe Metasploit Badge](https://img.shields.io/badge/-TryHackMe%20Metasploit-CC0000?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://github.com/cybmeadow/EternalBlue-Exploitation/blob/main/Tryhackme%20Badges/Metasploitable%20badge.jpg)
+[![TryHackMe Pentesting Principles Badge](https://img.shields.io/badge/-TryHackMe%20Pentesting%20Principles-CC0000?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://github.com/cybmeadow/EternalBlue-Exploitation/blob/main/Tryhackme%20Badges/Pentesting%20Principle%20badge.jpg)
   <span style="display: inline-block; margin: 0 10px;">
     <img 
       src="https://img.shields.io/badge/-TryHackMe%20Networking%20Nerd-CC0000?style=for-the-badge&logo=TryHackMe&logoColor=white" 
