@@ -85,19 +85,8 @@ I am a cybersecurity practitioner with a passion for red team operations and adv
 <!-- Add more badges or certification logos here -->
 
 ## 🏅 Badges
-<div style="text-align: center; margin-top: 20px;">
-  <span style="display: inline-block; margin: 0 10px;">
-    <img 
-      src="https://img.shields.io/badge/-TryHackMe%20Metasploit-CC0000?style=for-the-badge&logo=TryHackMe&logoColor=white" 
-      alt="TryHackMe Metasploit Badge" 
-    />
-  </span>
-  <span style="display: inline-block; margin: 0 10px;">
-    <img 
-      src="https://img.shields.io/badge/-TryHackMe%20Pentesting%20Principles-CC0000?style=for-the-badge&logo=TryHackMe&logoColor=white" 
-      alt="TryHackMe Pentesting Principles Badge" 
-    />
-  </span>
+[![TryHackMe Metasploit Badge](https://img.shields.io/badge/-TryHackMe%20Metasploit-CC0000?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://github.com/cybmeadow/EternalBlue-Exploitation/blob/main/METASPLOITABLE%20PIX.jpg)
+[![TryHackMe Pentesting Principles Badge](https://img.shields.io/badge/-TryHackMe%20Pentesting%20Principles-CC0000?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://github.com/cybmeadow/EternalBlue-Exploitation/blob/main/PENTESTING%20PRINCIPLES%20PIX.jpg)
   <span style="display: inline-block; margin: 0 10px;">
     <img 
       src="https://img.shields.io/badge/-TryHackMe%20Networking%20Nerd-CC0000?style=for-the-badge&logo=TryHackMe&logoColor=white" 
@@ -112,8 +101,6 @@ I am a cybersecurity practitioner with a passion for red team operations and adv
   </span>
 </div>
 <!-- Add more badges or certification logos here -->                           
-
-
 ---
 
 ## 🌐 Connect with Me
